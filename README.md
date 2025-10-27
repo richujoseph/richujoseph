@@ -65,8 +65,23 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=richujoseph&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=richujoseph&theme=tokyo-night" />
 </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ---
 
