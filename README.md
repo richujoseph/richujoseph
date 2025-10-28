@@ -49,6 +49,38 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/>
   </a>
+  <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/-Wireshark-1678B9?logo=wireshark&logoColor=white&style=flat-square" alt="Wireshark" width="110" height="28"/>
+</a>
+  <a href="https://nc110.sourceforge.io/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/-Netcat-000000?logo=netcat&logoColor=white&style=flat-square" alt="Netcat" width="110" height="28"/>
+</a>
+  <a href="https://nmap.org/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/-Nmap-1A2B6F?logo=nmap&logoColor=white&style=flat-square" alt="Nmap" width="110" height="28"/>
+</a>
+  <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/-Metasploit-0097D8?logo=metasploit&logoColor=white&style=flat-square" alt="Metasploit" width="110" height="28"/>
+</a>
+  <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/-Burp%20Suite-FF6A00?logo=burpsuite&logoColor=white&style=flat-square" alt="Burp Suite" width="110" height="28"/>
+</a>
+  <a href="https://sqlmap.org/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/-sqlmap-0E8A16?logo=sqlmap&logoColor=white&style=flat-square" alt="sqlmap" width="110" height="28"/>
+</a>
+  <a href="https://www.openwall.com/john/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/-JohnTheRipper-222222?logo=johntheripper&logoColor=white&style=flat-square" alt="John the Ripper" width="140" height="28"/>
+</a>
+  <a href="https://hashcat.net/hashcat/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/-Hashcat-5EAA3D?logo=hashcat&logoColor=white&style=flat-square" alt="Hashcat" width="110" height="28"/>
+</a>
+  <a href="https://cirt.net/Nikto2" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/-Nikto-333333?logo=nikto&logoColor=white&style=flat-square" alt="Nikto" width="110" height="28"/>
+</a>
+<a href="https://www.aircrack-ng.org/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/-Aircrack--ng-004E98?logo=aircrack-ng&logoColor=white&style=flat-square" alt="Aircrack-ng" width="130" height="28"/>
+</a>
+  
+  
 </p>
 
 ---
