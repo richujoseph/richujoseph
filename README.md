@@ -5,20 +5,20 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=richujoseph&label=Profile%20views&color=0e75b6&style=flat" alt="richujoseph" />
   <a href="https://www.linkedin.com/in/richujoseph/" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/richujoseph?logo=twitter&style=for-the-badge&color=1DA1F2" alt="richujoseph" />
+    <img src="https://img.shields.io/badge/LinkedIn-Follow-1DA1F2?style=for-the-badge&logo=linkedin" alt="richujoseph" />
   </a>
 </p>
 
 <br>
 
-
 ## 🚀 About Me
 <img align="right" alt="Cybersecurity" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+
 🎓 Cybersecurity Student passionate about protecting digital assets and exploring the ever-evolving world of information security
 
 🔐 Currently pursuing **Computer Science Engineering with Cyber Security**
 
-💡 Fascinated by **Open Source Projects, contributing to real-world software solutions,Ethical Hacking, Network Security & Penetration Testing**
+💡 Fascinated by **Open Source Projects, contributing to real-world software solutions, Ethical Hacking, Network Security & Penetration Testing**
 
 🌱 Always learning, always evolving in the cybersecurity landscape
 
@@ -32,55 +32,60 @@
 
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="45" height="45"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/>
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
   </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/>
+  </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="50" height="50"/>
   </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/>
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="50" height="50"/>
+  </a>
+  <a href="https://www.kali.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Kali_Linux_2.0_wordmark.svg" alt="Kali Linux" width="50" height="50"/>
   </a>
   <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/-Wireshark-1678B9?logo=wireshark&logoColor=white&style=flat-square" alt="Wireshark" width="110" height="28"/>
-</a>
-  <a href="https://nc110.sourceforge.io/" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/-Netcat-000000?logo=netcat&logoColor=white&style=flat-square" alt="Netcat" width="110" height="28"/>
-</a>
+    <img src="https://www.wireshark.org/assets/icons/wireshark-fin@2x.png" alt="Wireshark" width="40" height="40"/>
+  </a>
   <a href="https://nmap.org/" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/-Nmap-1A2B6F?logo=nmap&logoColor=white&style=flat-square" alt="Nmap" width="110" height="28"/>
-</a>
-  <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/-Metasploit-0097D8?logo=metasploit&logoColor=white&style=flat-square" alt="Metasploit" width="110" height="28"/>
-</a>
+    <img src="https://nmap.org/images/sitelogo.png" alt="Nmap" width="50" height="50"/>
+  </a>
+
+  <a href="https://www.metasploit.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://www.metasploit.com/includes/images/metasploit-logo-light-external-use.svg"
+         alt="Metasploit" width="90" height="90" />
+  </a>
   <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/-Burp%20Suite-FF6A00?logo=burpsuite&logoColor=white&style=flat-square" alt="Burp Suite" width="110" height="28"/>
-</a>
-  <a href="https://sqlmap.org/" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/-sqlmap-0E8A16?logo=sqlmap&logoColor=white&style=flat-square" alt="sqlmap" width="110" height="28"/>
-</a>
+    <img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" alt="Burp Suite" width="50" height="50"/>
+  </a>
+
   <a href="https://www.openwall.com/john/" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/-JohnTheRipper-222222?logo=johntheripper&logoColor=white&style=flat-square" alt="John the Ripper" width="140" height="28"/>
-</a>
-  <a href="https://hashcat.net/hashcat/" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/-Hashcat-5EAA3D?logo=hashcat&logoColor=white&style=flat-square" alt="Hashcat" width="110" height="28"/>
-</a>
-  <a href="https://cirt.net/Nikto2" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/-Nikto-333333?logo=nikto&logoColor=white&style=flat-square" alt="Nikto" width="110" height="28"/>
-</a>
-<a href="https://www.aircrack-ng.org/" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/-Aircrack--ng-004E98?logo=aircrack-ng&logoColor=white&style=flat-square" alt="Aircrack-ng" width="130" height="28"/>
-</a>
-  
-  
+    <img src="https://www.kali.org/tools/john/images/john-logo.svg" alt="John the Ripper" width="50" height="50"/>
+  </a>
+  <a href="https://hashcat.net/hashcat/" target="_blank" rel="noopener noreferrer">
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%2Fid%2FOIP.W4O967nB4FplKK7rk4GFmgAAAA%3Fpid%3DApi&f=1&ipt=c8ec1e3425574e7e6fc13d8cd3d30ba1bedca6654ef6b140dd678b1a6b521ada&ipo=images"
+         alt="Hashcat" width="50" height="50" />
+  </a>
+  <a href="https://www.aircrack-ng.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.kali.org/tools/aircrack-ng/images/aircrack-ng-logo.svg" alt="Aircrack-ng" width="50" height="50"/>
+  </a>
+  <a href="https://nc110.sourceforge.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.kali.org/tools/netcat/images/netcat-logo.svg" alt="Netcat" width="50" height="50"/>
+  </a>
 </p>
 
 ---
@@ -93,27 +98,20 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=richujoseph&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-sigma-five.vercel.app?user=richujoseph&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=richujoseph&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=richujoseph&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </p>
 
+---
 
+### 🏆 GitHub Trophies
 
-
-
-
-
-
-
-
-
-
-
-
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=richujoseph&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+</p>
 
 ---
 
