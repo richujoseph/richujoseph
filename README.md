@@ -119,7 +119,7 @@
 
 <p align="center">
   <a href="https://tryhackme.com/p/richujoseph203" target="_blank">
-   <img src="https://tryhackme-badges.s3.amazonaws.com/richujoseph203.png" alt="Your Image Badge" />"
+   <img src="https://tryhackme-badges.s3.amazonaws.com/richujoseph.png" alt="Your Image Badge" />
   </a>
 </p>
 
