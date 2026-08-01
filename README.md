@@ -203,5 +203,3 @@ PORT      STATE  SERVICE
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:0f3460,100:0d1117&height=150&section=footer" width="100%"/>
-
-<p align="center"><sub>🔒 Encrypted with care · Cybersecurity Engineering Student · Ethical Hacker · Kerala, India · Last compiled: 2026</sub></p>
