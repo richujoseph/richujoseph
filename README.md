@@ -155,8 +155,6 @@ Web App Security       ███████████░░░░░░░░
 
 <img src="https://raw.githubusercontent.com/richujoseph/richujoseph/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake for Richu Joseph" width="100%"/>
 
-<sub>🐍 A snake that eats its way through my contribution graph — auto-generated and updated daily via GitHub Actions (setup workflow included below).</sub>
-
 </div>
 
 ---
@@ -174,8 +172,6 @@ PORT      STATE  SERVICE
 <a href="https://tryhackme.com/p/richujoseph203" target="_blank">
   <img src="https://img.shields.io/badge/VIEW%20LIVE%20PROFILE-00f5d4?style=for-the-badge&logo=tryhackme&logoColor=0d1117&labelColor=0d1117" alt="TryHackMe Profile"/>
 </a>
-
-<sub>⚠️ TryHackMe's own embeddable badge image is hosted on a flaky S3 bucket that frequently 404s — the button above links directly to my live profile instead, so it never breaks.</sub>
 
 </div>
 
