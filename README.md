@@ -11,7 +11,7 @@
 
 <!-- ─────────────── TYPING SVG ─────────────── -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=%F0%9F%94%90+Building+Secure+%7C+Intelligent+%7C+Autonomous+Security+Systems;%E2%9A%94%EF%B8%8F+Offensive+Security+%E2%80%A2+Detection+Engineering+%E2%80%A2+AI+Security)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=Building+Secure+%7C+Intelligent+%7C+Autonomous+Security+Systems;Offensive+Security+%E2%80%A2+Detection+Engineering+%E2%80%A2+AI+Security)](https://git.io/typing-svg)
 
 <!-- ─────────────── PROFILE BADGES ─────────────── -->
 
@@ -86,7 +86,7 @@ My work focuses on combining **AI with cybersecurity** to build tools that impro
 </td>
 <td width="50%" valign="top">
 
-### ☁️ Engineering & DevSecOps
+###  Engineering & DevSecOps
 - Full Stack Application Development
 - DevSecOps & Secure CI/CD Pipelines
 - Cloud Security (AWS / Azure / GCP)
