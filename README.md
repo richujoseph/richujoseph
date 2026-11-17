@@ -48,6 +48,6 @@
 ---
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=richujoseph&show_icons=true&hide_border=true&count_private=true&theme=transparent" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=richujoseph&layout=compact&hide_border=true&theme=transparent" alt="Top languages"/>
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=richujoseph&show_icons=true&hide_border=true&count_private=true&theme=transparent" alt="GitHub stats"/>
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=richujoseph&layout=compact&hide_border=true&theme=transparent" alt="Top languages"/>
 </p>
