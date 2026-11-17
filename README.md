@@ -27,8 +27,8 @@
 
 | Project | What it is | Stack |
 |---|---|---|
+| **[SentriX](https://github.com/richujoseph/SentriX)** | AI-assisted network alert triage: Suricata alerts → MITRE ATT&CK-mapped incidents with LLM-written summaries and PDF reports. Ships with an isolated attack lab (4,816 packets → 19 alerts → 3 incidents in a sample run). | Python, FastAPI, Suricata, PostgreSQL, React, Docker |
 | **[Trend2Cart AI](https://github.com/richujoseph/Trend2Cart-AI)** · [live demo](https://trend2cart.vercel.app/) | AI platform for India's social sellers: ranks products by real profit after COD returns and turns them into Reels in Malayalam, Hindi or English. | Next.js 16, FastAPI, Supabase, Gemini, FFmpeg, Docker |
-| **[TeamFlow EPMS](https://github.com/richujoseph/TeamFlow)** | Final-year capstone: unified project management + docs platform (Jira + Confluence style) with granular RBAC and automated sprint/release reports. | Django 5, Next.js, TypeScript, PostgreSQL |
 | **[Demokratia](https://github.com/richujoseph/vote-chori)** | Secure college election system: Google OAuth restricted to the institute domain, RBAC, DB-enforced one-person-one-vote, live results. | Next.js, tRPC, Drizzle, Supabase, NextAuth |
 | **[Notch](https://github.com/richujoseph/Notch)** | Native macOS app that turns the MacBook notch into a live surface: now playing, timers, meetings, file shelf. Zero CPU when idle. | Swift, macOS 14+ |
 | **[Aegis](https://github.com/richujoseph/Aegis)** | Detects bot comments, harassment, spam and copyright abuse on YouTube in real time. | Python, Flask, JavaScript |
