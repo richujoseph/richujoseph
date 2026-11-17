@@ -16,7 +16,7 @@
 
 ### About me
 
-- 🛡️ **Security Intern at Algomox** — validating enterprise EDR, NDR, XDR and SIEM/SOAR platforms against **MITRE ATT&CK** through adversary emulation.
+- 🛡️ **Previously interned at Algomox**, validating enterprise EDR, NDR, XDR and SIEM/SOAR platforms against **MITRE ATT&CK** through adversary emulation.
 - 🔍 Interested in **detection engineering, SOC operations, offensive security** and **AI-driven security tooling**.
 - 🧑‍💻 I also ship full-stack products end to end — Next.js, TypeScript, Python (FastAPI / Flask / Django), PostgreSQL / Supabase.
 - 📫 Best way to reach me: [LinkedIn](https://www.linkedin.com/in/richujoseph) or the contact form on [richujoseph.in](https://richujoseph.in).
